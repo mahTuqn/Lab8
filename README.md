@@ -2,8 +2,8 @@
 
 ## Thông tin sinh viên
 
-- **Họ và tên:** Lưu Đức Hiệp
-- **Môn học:** Đánh giá và kiểm định chất lượng phần mềm (COUR01.LT1)
+- **Họ và tên:** Lê Mạnh Tuấn
+- **Môn học:** Đánh giá và kiểm định chất lượng phần mềm (COUR01.LT2)
 - **Công cụ:** Apache JMeter 5.6.3
 - **Môi trường:** OpenJDK 21 LTS, Windows 11
 - **Đối tượng kiểm thử:** Hệ thống Phenikaa Canvas (https://canvas.phenikaa-uni.edu.vn/)
